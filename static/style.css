@@ -1,0 +1,99 @@
+  html {
+    font-size: 10px;
+  }
+  
+  body {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 1.6rem;
+    line-height: 1.5;
+    text-align: center;
+    background: #325886;
+    color: #FFFFFF;
+    margin: 0;
+  }
+  
+  h1 {
+    font-size: 4rem;
+    margin-bottom: 10px;
+  }
+  
+  h2 {
+    font-size: 3.25rem;
+  }
+  
+  a {
+    color: #FEF265;
+  }
+  
+  a:visited {
+    color: #FCE8A4;
+  }
+  
+  #main {
+    margin: 30px 8px;
+    padding: 15px;
+    border-radius: 5px;
+    background: #447AB9;
+  }
+  
+  img {
+    max-width: 100%;
+    max-height: 100%;
+    display: block;
+  }
+  
+  #img-div {
+    background: #FEF265;
+    border-radius: 50%;
+    display: block;
+    width: 500px;
+    height: 500px;
+    margin: auto;
+    padding: 10px;
+  }
+  
+  #img-caption {
+    margin: 25px 0 5px 0;
+    font-style: italic;
+  }
+  
+  #short-text {
+    display: none;
+  }
+
+  #headline {
+    margin: 60px 0 20px;
+    text-align: center;
+  }
+
+  p {
+    max-width: 600px;
+    margin: 10px auto;
+    text-align: justify;
+  }
+
+  @media (max-width: 500px) {
+
+    img {
+      content:url("vault-boy-dead.png");
+    }
+    
+    #img-div {
+      width: 80%;
+      height: auto;
+      background: none;
+    }
+    
+    #short-text {
+      display: inline-block;
+    }
+    
+    #full-text {
+      display: none;
+    }
+
+    #headline {
+      margin: 20px 0 20px;
+    }
+
+  }
