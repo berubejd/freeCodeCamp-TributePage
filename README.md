@@ -1,6 +1,6 @@
 # Responsive Web Design Projects - Build a Tribute Page
 
-## User Stories
+### User Stories
 
 1. My tribute page should have an element with a corresponding id="main", which contains all other elements.
 2. I should see an element with a corresponding id="title", which contains a string (i.e. text) that describes the subject of the tribute page (e.g. "Dr. Norman Borlaug").
@@ -14,3 +14,7 @@
 
 ---
 [freeCodeCamp Project](https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-tribute-page)
+
+### Image Attribution
+vault-boy-2.png - [TopPNG](https://toppng.com/photo/209061/vault-boy-png-fallout-pip-boy-wallpaper-phone)
+vault-boy-dead.png - [PNG Guru](https://www.pngguru.com/free-transparent-background-png-clipart-aulio)
